@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/hugobiais-wordware-mcp-hugo-badge.png)](https://mseep.ai/app/hugobiais-wordware-mcp-hugo)
+
 # Wordware MCP Server
 
 A Model Context Protocol (MCP) server implementation that enables integration of your Wordware deployed flows as tools that can be used directly within Claude conversations.
